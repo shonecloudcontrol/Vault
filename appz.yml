@@ -1,7 +1,7 @@
 app:
     name: Vault
     code: VAULT
-    notify: appzdev@cloudbourne.co
+    notify: shonevarkey2012@gmail.com
 
 build:
     version: 0.4
