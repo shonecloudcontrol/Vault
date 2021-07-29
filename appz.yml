@@ -1,7 +1,7 @@
 app:
     name: Vault
     code: VAULT
-    notify: svarkey@ecloudcontrol.com
+    notify: svarkey@ecloudcontrol
 
 build:
     version: 0.4
