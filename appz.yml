@@ -1,7 +1,7 @@
 app:
     name: Vault
     code: VAULT
-    notify: svarkey@ecloudcontrol
+    notify: svarkey@ecloudcontrol.com
 
 build:
     version: 0.4
@@ -30,6 +30,6 @@ volumes:
     size: 5Gi
 
 properties:
-    revision: 25
+    revision: 26
     ENABLE_AUTO_PASSWORD: True
     
