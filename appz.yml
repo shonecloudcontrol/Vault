@@ -14,7 +14,7 @@ deploy:
     context: shonecloudcontrol/DEV
     type: statefulset
     replicas: 1
-    ingress: none
+    ingress: vault-0-4 
     port:
     - 8200
     - 80
